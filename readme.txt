@@ -82,7 +82,7 @@ Please ensure that you've selected the radio button "Username" when you enter a 
 
 = Aligning the icons (centered, left- or right-aligned) doesn't work = 
 
-The alignment options under question 6 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV), not where they appear on the page. 
+The alignment options under question 6 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV ), not where they appear on the page. 
 
 To make the icons show up at the right spot please play around with all the different placement options the plugin offers (under question 3). If that doesn't work please ask the creator of your template for advice.
 
