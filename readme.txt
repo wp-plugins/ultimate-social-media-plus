@@ -1,10 +1,10 @@
 === Ultimate Social Media Icons PLUS ===
 Contributors: socialdude
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.richter%40gmx%2enet&lc=LI
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
-Tested up to: 4.1
-Stable tag: 1.0
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -82,7 +82,7 @@ Please ensure that you've selected the radio button "Username" when you enter a 
 
 = Aligning the icons (centered, left- or right-aligned) doesn't work = 
 
-The alignment options under question 6 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV), not where they appear on the page. 
+The alignment options under question 6 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV ), not where they appear on the page. 
 
 To make the icons show up at the right spot please play around with all the different placement options the plugin offers (under question 3). If that doesn't work please ask the creator of your template for advice.
 
@@ -116,6 +116,20 @@ Yes, absolutely. We build websites (incl. design), web applications and software
 
 
 == Changelog ==
+
+= 1.1 =
+* Og-issues fixed
+* Conflicts with Yoast SEO plugin sorted
+* Alignments under posts didn't work sometimes before, fixed now
+* When user selected icons to shuffle pop-up didn't show up, fixed now
+* Short code corrected
+* On some templates the checkboxes in the admin area couldn't get selected, fixed now
+* Links now to the correct review screen
+* Share-box only displayed partly sometimes, fixed now
+* When sharing from a Facebook business page it returned errors, this should be fixed now (to be observed) 
+* Sometimes facebook share count didn't increase despite liking it, this should be fixed now (to be observed) 
+* Template CSS conflicts solved in the plugin
+* Facebook sharing text issues fixed
 
 = 1.0 =
 * First release
