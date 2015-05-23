@@ -48,51 +48,7 @@ Note: This plugin requires CURL to be activated/installed on your server (which 
 
 == Frequently Asked Questions ==
 
-= Some of the links I entered don't work =
-
-Please don't forget to enter the "http://" at the beginning of the link. 
-
-= How can I change the "Please follow & like us :)" if I placed the icons via a widget? =
-
-You can change that in the Widget-area where you dropped the widget on the sidebar. Please click on it (on the sidebar), it will open the menu where you can change the text. 
-
-For you visual people: http://screencast.com/t/euuqTzbJ 
-
-If you don't want to show any text, just enter a space (" ").
-
-= How can I remove the credit-link ("Powered by Ultimatelysocial")? =
-
-Open the first question in the plugin ("1. Where do you want to display the icons?"), on the level of the email-icon you see a link on the right hand side. Please click it to remove the credit link. 
-
-Please note that we didn't place the credit link without your consent (you agreed to it when de-selecting the email-icon). 
-
-In video: http://screencast.com/t/o0sfAgyqjWBH
-
-= Can I also display the icons vertically (on top of each other)? =
-
-Yes. For that please go to question 5 and select to display only 1 icon per row. 
-
-= I have difficulties uploading custom icons - why is that? = 
-
-Most likely that's because you've set "allow_url_fopen" to "off". Please turn it to "on" (or ask your server admin to do so - he'll know what to do). 
-
-= My Youtube icon doesn't work = 
-
-Please ensure that you've selected the radio button "Username" when you enter a youtube username, or "Channel ID" when you entered a channel ID. 
-
-= Aligning the icons (centered, left- or right-aligned) doesn't work = 
-
-The alignment options under question 6 align the icons with respect to each other (see http://screencast.com/t/VPkmjs3oV ), not where they appear on the page. 
-
-To make the icons show up at the right spot please play around with all the different placement options the plugin offers (under question 3). If that doesn't work please ask the creator of your template for advice.
-
-= This is a great plugin! How can I say "Thank you"? = 
-
-By giving us a 5-star rating :) You can give your "Thank you" even more strength with a donation - check the "Donate to this plugin" on the right hand side)
-
-= Are you guys open for taking on client work? = 
-
-Yes, absolutely. We build websites (incl. design), web applications and software, plugins :) and do theme customizations. Get in touch with us at support at ultimatelysocial dot com. 
+Please check out the FAQ on http://ultimatelysocial.com 
 
 == Screenshots ==
 
