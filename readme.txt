@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=seb.r
 Tags: social media, social media icons, sidebar, admin, icons, sharing icons, social media widget, social icon widget, socialmedia, fb widget, facebook, facebook icon, facebook button, facebook share button, facebook like button, twitter, twitter icon, twitter button, google+, google, google plus, google plus icon, google plus button, pinterest, pinterest icon, pinterest button, instagram, Instagram icon, Instagram button, youtube, youtube icon, youtube button, linkedin, linkedin icon, linkedin button, subscription popup, pop-up, ultimate, email, rss, rss2email, subscription icons, subscription icon, social media pop-up, free, newsletter, email newsletter, follow, follow me, counter, feed, feeds, filter, links, link, media, plugin, social, widget, tweet button, email button, email icon, socialize, facebook like, facebook recommend
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,6 +73,15 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Changelog ==
 
+= 1.4 =
+* New follow-icons added
+* More "rectangle" icons added before/after posts
+* Widget was rendered incorrectly on some templates, fixed now
+* Icons didn't always line up (on some themes), fixed now
+* Youtube API got changed, which made the counts not displayed correctly, this is now adjusted in the plugin
+* Slight layout adjustments in plugin's admin area
+
+
 = 1.3 =
 * Links with "@" in the url (e.g. as in Flickr-links) now get recognized as well
 * Alignment issues of icons in tooltip fixed
@@ -104,5 +113,5 @@ Please check out the FAQ on http://ultimatelysocial.com
 
 == Upgrade Notice ==
 
-= 1.3 =
-Minor adjustments and some new features, but no upgrade needed if you didn't face any issues 
+= 1.4 =
+Main change: better "follow"-icons added to increase conversions
